@@ -1,0 +1,40 @@
+.App {
+    text-align: center;
+  }
+
+  .tab{
+    display:inline-block;
+    vertical-align:top;
+    padding: 20px;
+    }
+    .card{
+      display:inline-block;
+      vertical-align:top;
+      padding: 20px;
+      border:1px solid #f0f;
+    }
+
+  table {
+    border: 2px solid #f0f;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  th {
+    text-align: center;
+    background-color: #f0f;
+    cursor: pointer;
+    }
+  
+  td {
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  th, td {
+    min-width: 200px;
+    padding: 20px 20px;
+  }
+  
+  
